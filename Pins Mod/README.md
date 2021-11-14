@@ -2,6 +2,8 @@
 
 Status:
 November 14, 2021 UNTESTED:  AB Drive Units
+November 14, 2021 Hartk1213's no wire path XY joint recreated in Fusion. (STL's are from Hartk1213's repository and unchanged, his CAD files had not been posted.)
+
 
 
 
