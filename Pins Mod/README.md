@@ -56,5 +56,7 @@ Threaded pins
 ](https://www.ebay.com/itm/%CF%865mm-%CF%8612mm-Female-Thread-Cylindrical-Pin-Dowel-Pins-A2-304-Stainless-Steel/184373551069
  "https://www.ebay.com/itm/%CF%865mm-%CF%8612mm-Female-Thread-Cylindrical-Pin-Dowel-Pins-A2-304-Stainless-Steel/184373551069
 ")
+
+
 NOTE: 2 smooth pins can be substituted for the threaded pins, the reason the threaded pins are there is for easy removal without the need to remove the stepper. but if you dont plan on removing the pins without removing the stepper than smooth pins would work just fine for you in this situation.
 
