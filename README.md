@@ -17,7 +17,7 @@ Smooth pins
 
 https://www.aliexpress.com/item/1739093502.html
 
-threaded pins
+Threaded pins
 
 https://www.ebay.com/itm/%CF%865mm-%CF%8612mm-Female-Thread-Cylindrical-Pin-Dowel-Pins-A2-304-Stainless-Steel/184373551069
 
