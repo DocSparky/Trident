@@ -1,8 +1,18 @@
 # Trident
+
+Status:
+November 14, 2021 UNTESTED
+
+
+
+
 Incorporation of pins modification to Voron Trident AB drives, based on f3d files from 
 https://github.com/VoronDesign/Voron-Trident
 and
 step files from https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Pins_Mod
+
+US 3dp retailer of kit with pins for this mod, plus the pin mod XY joint and pin mod AB tensioner:
+https://kb-3d.com/store/v1-trident/373-voron-trident-pin-mod-shaft-kit-1634872666607.html
 
 Appropriate portions from from hartk1213's readme:
 
